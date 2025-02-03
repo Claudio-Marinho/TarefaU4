@@ -79,7 +79,3 @@ O diagrama de conexões pode ser visualizado no [Wokwi Simulator](https://wokwi.
 - O tratamento de debouncing foi implementado em software para garantir leituras precisas dos botões.
 - A matriz WS2812 é controlada para exibir números de 0 a 9, e o LED RGB fornece feedback visual contínuo.
 
-## Licença
-
-Este projeto é de código aberto sob a licença MIT.
-
